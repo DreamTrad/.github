@@ -23,7 +23,7 @@ Pour tout renseignement, vous pouvez nous contacter sur [Twitter](https://x.com/
 | Zero Escape: 9 Hours, 9 Doors, 9 Persons   | Terminé    | [patch](https://www.dreamteamtrad.fr/999-9heures-9personnes-9portes/)          |
 | Zero Escape: Virtue's Last Reward          | Terminé    | [patch](https://www.dreamteamtrad.fr/vlr-virtues-last-reward/)                 |
 | Zero Escape: Zero Time Dilemma             | Terminé    | [patch](https://www.dreamteamtrad.fr/ztd-zero-time-dilemma/)                   |
-| PARANORMASIGHT                             | En cours   | [informations](https://www.dreamteamtrad.fr/paranormasight/)                   |
+| PARANORMASIGHT                             | Terminé    | [patch](https://www.dreamteamtrad.fr/paranormasight/)                   |
 | The Zodiac Trial                           | En cours   | [informations](https://www.dreamteamtrad.fr/the-zodiac-trial/)                 |
 | 428: Shibuya Scramble                      | En cours   | [informations](https://www.dreamteamtrad.fr/428-shibuya-scramble/)             |
 
