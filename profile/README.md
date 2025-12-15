@@ -5,15 +5,15 @@
 
 We are a team of French fan translators specializing in Visual Novels. The team was born with the fan translation of AI: The Somnium Files. Since then, we have translated other Visual Novels by Kotarō Uchikoshi, such as the Zero Escape series. We are now also working on Visual Novels by other authors, including Paranormasight and 428: Shibuya Scramble.
 
-For any inquiries, you can contact us on [Twitter](https://x.com/DreamTeamTrad), by [email](https://www.dreamteamtrad.fr/contact/), or directly on our [Discord](https://t.co/O6tlFvR8wa).
+For any inquiries, you can contact us on [Twitter](https://x.com/DreamTradFR), by [email](https://www.dreamteamtrad.fr/contact/), or directly on our [Discord](https://t.co/O6tlFvR8wa).
 
 ### _Français_
 
 Nous sommes une équipe de fantraducteur français de Visual Novel. L'équipe est né avec la fantraduction de AI: The Somnium Files. Par la suite nous avons traduit d'autres Visual Novel de Kotarō Uchikoshi comme la série Zero Escape. Nous travaillons également sur des Visual Novel de d'autres autres auteurs désormais, comme Paranormasight ou 428 Shibuya Scramble.
 
-Vous pouvez retrouver plus d'informations sur notre [site internet](https://www.dreamteamtrad.fr/) ou via notre [discord](https://t.co/O6tlFvR8wa)
+Vous pouvez retrouver plus d'informations sur notre [site internet](https://www.dreamtrad.fr/) ou via notre [discord](https://t.co/O6tlFvR8wa)
 
-Pour tout renseignement, vous pouvez nous contacter sur [Twitter](https://x.com/DreamTeamTrad), par [email](https://www.dreamteamtrad.fr/contact/), ou directement sur notre [Discord](https://t.co/O6tlFvR8wa).
+Pour tout renseignement, vous pouvez nous contacter sur [Twitter](https://x.com/DreamTradFR), par [email](https://www.dreamteamtrad.fr/contact/), ou directement sur notre [Discord](https://t.co/O6tlFvR8wa).
 
 
 | projets                                    | avancement | Site web                                                                       |
