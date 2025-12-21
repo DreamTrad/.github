@@ -29,4 +29,4 @@ Pour tout renseignement, vous pouvez nous contacter sur [Twitter](https://x.com/
 | Zero Escape: Zero Time Dilemma            | Terminé    | [patch](https://dreamtrad.fr/jeu/ztd/jeufr/telechargement)                          |
 | PARANORMASIGHT                            | Terminé    | [patch](https://dreamtrad.fr/jeu/paranormasight/jeufr/telechargement)               |
 | Shuffled Deck - The Zodiac Trial          | Terminé    | [patch](https://dreamtrad.fr/jeu/zodiac_trial/jeufr/telechargement)                 |
-| Shuffled Deck - The Divine Deception      | En cours   | [patch](https://dreamtrad.fr/jeu/divine_deception/jeufr/telechargement)             |
+| Shuffled Deck - The Divine Deception      | En cours   | [informations](https://dreamtrad.fr/jeu/divine_deception/jeufr/telechargement)      |
